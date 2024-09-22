@@ -1,3 +1,4 @@
-import numpy as np
-import matplotlib.pyplot as plt
-import tkinter as tk
+from Interface import Interface
+
+Interface = Interface()
+Interface.loop()
